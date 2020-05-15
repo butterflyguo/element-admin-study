@@ -1,0 +1,261 @@
+{
+  "id": "1818280",
+  "name": "自己的",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8078262",
+      "name": "eyes_close",
+      "font_class": "eyes_close",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "10147119",
+      "name": "eyes",
+      "font_class": "eyes",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "5397572",
+      "name": "flag-fill",
+      "font_class": "flag-fill",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "10674100",
+      "name": "局用户管理",
+      "font_class": "juyonghuguanli",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10681510",
+      "name": "新闻列表",
+      "font_class": "xinwenliebiao",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "10681511",
+      "name": "社团列表",
+      "font_class": "shetuanliebiao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "10681512",
+      "name": "社团用户列表",
+      "font_class": "shetuanyonghuliebiao",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "10681513",
+      "name": "权限管理",
+      "font_class": "quanxianguanli",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "10681514",
+      "name": "数据字典",
+      "font_class": "shujuzidian",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "10681515",
+      "name": "新闻待审核信息",
+      "font_class": "xinwendaishenhexinxi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "10681516",
+      "name": "订单列表",
+      "font_class": "dingdanliebiao",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "10681517",
+      "name": "公文列表",
+      "font_class": "gongwenliebiao",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "10681518",
+      "name": "菜单管理",
+      "font_class": "caidanguanli",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "10681519",
+      "name": "活动室预订申请",
+      "font_class": "huodongshiyudingshenqing",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "10681520",
+      "name": "客户端管理",
+      "font_class": "kehuduanguanli",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "10681521",
+      "name": "角色管理",
+      "font_class": "jiaoseguanli",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "10681522",
+      "name": "企业列表",
+      "font_class": "qiyeliebiao",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "10681523",
+      "name": "企业申请列表",
+      "font_class": "qiyeshenqingliebiao",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "10681524",
+      "name": "社团待审核",
+      "font_class": "shetuandaishenhe",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "10681525",
+      "name": "场馆审核",
+      "font_class": "changguanshenhe",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "10681526",
+      "name": "消费者用户管理",
+      "font_class": "xiaofeizheyonghuguanli",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "10681527",
+      "name": "场馆列表",
+      "font_class": "changguanliebiao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "10681528",
+      "name": "用户列表",
+      "font_class": "yonghuliebiao",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "10681529",
+      "name": "局用户管理",
+      "font_class": "juyonghuguanli1",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "10681530",
+      "name": "企业用户管理",
+      "font_class": "qiyeyonghuguanli",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "10681531",
+      "name": "活动审核",
+      "font_class": "huodongshenhe",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "10681532",
+      "name": "活动管理",
+      "font_class": "huodongguanli",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "11207320",
+      "name": "小程序管理",
+      "font_class": "xiaochengxuguanli",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11305505",
+      "name": "文体设施",
+      "font_class": "wentisheshi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "12467487",
+      "name": "ios-images",
+      "font_class": "ios-images",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "12467541",
+      "name": "ios-people",
+      "font_class": "ios-people",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "14679023",
+      "name": "exclamationmark_circle_fill",
+      "font_class": "exclamationmark_circle_fill",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "14679035",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "14679037",
+      "name": "eye_slash",
+      "font_class": "eye_slash",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "14679141",
+      "name": "lock_fill",
+      "font_class": "lock_fill",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "14679143",
+      "name": "lock_open_fill",
+      "font_class": "lock_open_fill",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    }
+  ]
+}
